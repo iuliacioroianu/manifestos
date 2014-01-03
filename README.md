@@ -1,0 +1,4 @@
+manifestos
+==========
+
+NLP - political manifestos
